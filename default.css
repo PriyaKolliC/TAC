@@ -1,0 +1,23 @@
+﻿
+table
+{
+    width:450px;
+    height:150px;
+    border-collapse:collapse;
+    
+}
+td
+{
+    border:none;
+    width:200px;
+}
+.frow
+{
+    background-color: #7400E8;
+}
+.srow
+{
+    background-color: #999999;
+}
+
+

@@ -1,0 +1,7 @@
+D:\.net files\project\TAC\TAC\bin\TAC.dll
+D:\.net files\project\TAC\TAC\bin\TAC.pdb
+D:\.net files\project\TAC\TAC\obj\Debug\TAC.dll
+D:\.net files\project\TAC\TAC\obj\Debug\TAC.pdb
+D:\.net files\project\TAC\TAC\bin\AjaxControlToolkit.pdb
+D:\.net files\project\TAC\TAC\obj\Debug\TAC.csprojResolveAssemblyReference.cache
+D:\.net files\project\TAC\TAC\bin\AjaxControlToolkit.dll

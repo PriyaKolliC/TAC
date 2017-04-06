@@ -1,0 +1,19 @@
+﻿.links
+{
+    background-image: url('images/links_b.jpg');
+    background-repeat:no-repeat;
+    width: 220px;
+    height: 600px;
+}
+table
+{
+    border-collapse:collapse;
+    width:220px;
+}
+td
+{
+    height: 50px;
+    width: 220px;
+    border: none;
+    
+}

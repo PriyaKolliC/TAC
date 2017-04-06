@@ -1,0 +1,13 @@
+﻿.hdr
+{
+    background-image: url('images/header.jpg');
+    background-repeat: no-repeat;
+    height:200px;
+    width:900px;
+}
+body
+{
+    background-image: url('images/taclogo.jpg');
+    background-repeat: no-repeat;
+    background-position: center 220px;
+}
